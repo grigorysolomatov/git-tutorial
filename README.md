@@ -12,7 +12,11 @@
 
 1. Open the terminal. If you don't know how, learn [here](https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955).
 
-2. (Optional) Navigate to where you want to save the material using ```cd```, e.g. ```cd C:\Users\YOURUSERNAME\Desktop```.
+2. (Optional) Navigate to where you want to save the material using ```cd```, e.g.
+
+```bash
+        cd C:\Users\YOURUSERNAME\Desktop
+```
 
 3. Copy the command below and paste it into the terminal using *Ctrl+Shift+v*, then hit *Enter*.
 
