@@ -2,7 +2,7 @@
 
 ## What is Git?
 
-### Branches and timelines for projects!
+- Branches and timelines for projects!
 
 <img src="https://www.nobledesktop.com/image/blog/git-branches-merge.png" alt="git-branches" width="500"/>
 
