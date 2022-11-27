@@ -15,6 +15,14 @@
 - Everything is local (work on a plane)
 - Easy to share
 - Detect corruption
+
+## Who uses Git?
+
+- Programmers
+- Scientists
+- Artists
+- Writers
+- ...
 ## Instructions
 
 ### Create a GitHub account
