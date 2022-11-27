@@ -6,6 +6,15 @@
 
 <img src="https://www.nobledesktop.com/image/blog/git-branches-merge.png" alt="git-branches" width="500"/>
 
+## Why use Git?
+
+- Any kind of files (*.tex*, *.py*, *.csv*, *.txt*, *.pdf*, *.png*, ...)
+- Complete history = can always undo/redo
+- Many collaborators
+- Merge branches!
+- Everything is local (work on a plane)
+- Easy to share
+- Detect corruption
 ## Instructions
 
 ### Create a GitHub account
