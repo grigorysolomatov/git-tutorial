@@ -1,5 +1,11 @@
 # Grigory's awesome Git tutorial
 
+## What is Git?
+
+### Branches and timelines for projects!
+
+<img src="https://www.nobledesktop.com/image/blog/git-branches-merge.png" alt="git-branches" width="500"/>
+
 ## Instructions
 
 ### Create a GitHub account
