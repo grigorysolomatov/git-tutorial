@@ -23,6 +23,12 @@
 - Artists
 - Writers
 - ...
+
+## Why not use Git?
+
+- Learning curve
+- Not real-time
+
 ## Instructions
 
 ### Create a GitHub account
