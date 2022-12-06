@@ -28,6 +28,9 @@
 
 - Learning curve
 - Not real-time
+- Huge data
+  - Git services provide limited storage
+  - Everybody has a copy of everything
 
 ## Instructions
 
