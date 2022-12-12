@@ -60,6 +60,15 @@
 
 2. Send me your username using this [form](https://docs.google.com/forms/d/e/1FAIpQLScy55TbtxTXZOLVv9CYvuVqc-p2osA8igexzPVYD5I1dLP4Lg/viewform?usp=sf_link), and I will add you to this project.
 
+### Install GitHub Desktop
+
+- [Windows/Mac](https://desktop.github.com/)
+- [Linux](https://dev.to/rahedmir/is-github-desktop-available-for-gnu-linux-4a69)
+
+To install Git only, without GitHub Desktop:
+
+- [Windows/Mac/Linux](https://github.com/git-guides/install-git)
+
 ### Download the material
 
 1. Open the terminal. If you don't know how, learn [here](https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955).
