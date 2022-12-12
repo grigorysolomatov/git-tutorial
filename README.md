@@ -46,7 +46,7 @@
 
 ## Why not use Git?
 
-- Learning curve
+- Learning curve?
 - Not real-time
 - Huge data
   - Git services provide limited storage
