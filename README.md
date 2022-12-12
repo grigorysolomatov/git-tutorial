@@ -6,6 +6,16 @@
 
 <img src="https://www.nobledesktop.com/image/blog/git-branches-merge.png" alt="git-branches" width="500"/>
 
+## Who made Git?
+
+- Linus Torvalds
+
+<img src="https://regmedia.co.uk/2012/06/18/torvalds_bird.jpg" alt="linus-flip-off" width="500"/>
+
+<img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.6435-9/45357103_251653055476304_3173880819135545344_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ioIqnnNRYeAAX9W89N3&_nc_ht=scontent-lhr8-1.xx&oh=00_AfAe3A1jm9QHa4JnyGwOsr6uDCMynrG4kdmgKjGGWKZs1g&oe=63BE499E" alt="linus-influential" width="500"/>
+
+<iframe width="500" height="350" src="https://www.youtube.com/embed/JZ017D_JOPY?start=0&amp;end=52" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Why use Git?
 
 - Any kind of files (*.tex*, *.py*, *.csv*, *.txt*, *.pdf*, *.png*, ...)
