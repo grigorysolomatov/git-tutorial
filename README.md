@@ -20,6 +20,10 @@
 
 - Community development of Linux
 
+## Git = GitHub? NO!
+
+<img src="https://pbs.twimg.com/media/FgonU5LaAAECmzp?format=jpg&name=small" alt="git-vs-github" width="500"/>
+
 ## Why use Git?
 
 - Any kind of files (*.tex*, *.py*, *.csv*, *.txt*, *.pdf*, *.png*, ...)
