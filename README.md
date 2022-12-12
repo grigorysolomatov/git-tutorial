@@ -18,7 +18,9 @@
 
 ## Why was Git made?
 
-- Community development of Linux
+- Collaborative development of software (Linux)
+- Many independent collaborators
+- Completely decentralized!
 
 ## Git = GitHub? NO!
 
