@@ -69,7 +69,7 @@ To install Git without GitHub Desktop:
 
 - [Windows/Mac/Linux](https://github.com/git-guides/install-git)
 
-### Download the material
+### Cloning without GitHub Desktop
 
 1. Open the terminal. If you don't know how, learn [here](https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955).
 
