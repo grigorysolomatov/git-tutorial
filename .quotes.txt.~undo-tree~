@@ -1,0 +1,14 @@
+(undo-tree-save-format-version . 1)
+"52760273f674127055dd620c63a07aa824553cdb"
+[nil nil nil nil (25495 12 792478 704000) 0 nil]
+([nil nil (("<insert quote here>" . -38) (undo-tree-id1 . -19) (undo-tree-id2 . -19) 57 (t 25494 64874 457768 248000)) nil (25495 12 792476 225000) 0 nil])
+([nil nil ((38 . 41)) nil (25495 12 792472 4000) 0 nil])
+([nil nil (("Gri" . -38) (undo-tree-id0 . -3) 41) nil (25495 12 792465 420000) 0 nil])
+([nil nil (("\"" . 40) (undo-tree-id18 . -1) (39 . 40) (38 . 40) ("\"" . -38) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (38 . 39) (t 25495 12 793638 441000)) nil (25495 26 117787 955000) 0 nil])
+([nil nil (("\"\"" . -38) (undo-tree-id4 . -2) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -2) (undo-tree-id9 . -1) (undo-tree-id10 . -2) (undo-tree-id11 . -2) (undo-tree-id12 . -1) (undo-tree-id13 . -2) (undo-tree-id14 . -1) (undo-tree-id15 . -2) (undo-tree-id16 . -1) (undo-tree-id17 . -2) 40) nil (25495 26 117783 780000) 0 nil])
+([nil nil ((38 . 41)) nil (25495 26 117774 932000) 0 nil])
+([nil nil (("Thi" . -38) (undo-tree-id3 . -3) 41) nil (25495 26 117773 438000) 0 nil])
+([nil nil ((38 . 59)) nil (25495 26 117765 394000) 0 nil])
+([nil nil ((59 . 61)) nil (25495 26 117761 368000) 0 nil])
+([nil current ((61 . 62) (t 25495 26 118735 373000)) nil (25495 28 678010 556000) 0 nil])
+nil
