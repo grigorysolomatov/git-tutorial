@@ -16,6 +16,10 @@
 
 <iframe width="500" height="350" src="https://www.youtube.com/embed/JZ017D_JOPY?start=0&amp;end=52" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Why was Git made?
+
+- Community development of Linux
+
 ## Why use Git?
 
 - Any kind of files (*.tex*, *.py*, *.csv*, *.txt*, *.pdf*, *.png*, ...)
