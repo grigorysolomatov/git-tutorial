@@ -65,7 +65,7 @@
 - [Windows/Mac](https://desktop.github.com/)
 - [Linux](https://dev.to/rahedmir/is-github-desktop-available-for-gnu-linux-4a69)
 
-To install Git only, without GitHub Desktop:
+To install Git without GitHub Desktop:
 
 - [Windows/Mac/Linux](https://github.com/git-guides/install-git)
 
