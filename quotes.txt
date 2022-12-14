@@ -21,3 +21,6 @@ Nir:
 
 Piet:
 <insert quote here>
+
+Matthes:
+<Now, I have a quote too.>
