@@ -36,6 +36,8 @@
 - Easy to share
 - Detect corruption
 
+- [Detailed explanation](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+
 ## Who uses Git?
 
 - Programmers
@@ -51,6 +53,20 @@
 - Huge data
   - Git services provide limited storage
   - Everybody has a copy of everything
+
+## Git Work-flow
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--M_fHUEqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png" alt="git-workflow" width="500"/>
+
+- [Detailed explanation](https://dev.to/mollynem/git-github--workflow-fundamentals-5496)
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zGTf-eR6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/7z3xw1g2mt3sy9dastza.png" alt="git-as-food" width="500"/>
+
+## Commit messages
+
+- [Best practices](https://initialcommit.com/blog/git-commit-messages-best-practices)
+
+<img src="https://imgs.xkcd.com/comics/git_commit_2x.png" alt="xkcd-git-commit" width="500"/>
 
 ## Instructions
 
